@@ -68,10 +68,14 @@
       </p>
       <p><strong>Built with:</strong> HTML, CSS and JavaScript</p>
       <p align="center">
-        <a href="https://github.com/rittik-chatterjee2534/rock-paper-scissors">
-          View Repository
-        </a>
-      </p>
+  <a href="https://github.com/rittik-chatterjee2534/rock-paper-scissors">
+    View Repository
+  </a>
+  •
+  <a href="https://rittik-chatterjee2534.github.io/rock-paper-scissors/">
+    Live Demo
+  </a>
+</p>
     </td>
   </tr>
 </table>
