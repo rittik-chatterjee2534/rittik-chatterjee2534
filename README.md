@@ -12,15 +12,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Currently pursuing a **B.Tech degree**
+- 🎓 Currently pursuing a **B.Tech in Computer Science and Engineering**
 - 💼 Former **Diploma Engineer Trainee** in the HMI section at **SMS group India**
-- 🌱 Currently developing my **Full-Stack Web Development** skills
-- 💻 Skilled in **HTML, CSS and JavaScript**, with basic knowledge of **Node.js**
-- 🧠 Familiar with **C, C++, Java, Python and SQL**
-- 🎨 Interested in **Frontend Development, UI/UX and Responsive web design**
-- 🚀 I enjoy building practical projects that solve real-world problems
-- 🤝 Comfortable collaborating on team projects using **Git and GitHub**
-- 🎯 Currently learning **Backend development, Databases, APIs and Advanced JavaScript**
+- 🌱 Developing my **full-stack web development** skills
+- 🎨 Interested in **frontend development, UI/UX and responsive web design**
+- 🚀 I enjoy building practical applications that solve real-world problems
+- 🎯 Currently learning **DSA, backend development, databases and APIs**
 
 ## 🛠️ Tech Stack
 
