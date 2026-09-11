@@ -1,4 +1,12 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rittik Chatterjee</h1>
+
+<h3 align="center">
+  Aspiring Web Developer | B.Tech Student | Passionate About Building Useful Web Applications
+</h3>
+
+<p align="center">
+  I enjoy turning ideas into clean, responsive and user-friendly websites.
+</p>
 
 <!--
 **rittik-chatterjee2534/rittik-chatterjee2534** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
