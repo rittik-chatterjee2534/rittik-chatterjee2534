@@ -21,3 +21,25 @@
 - 🚀 I enjoy building practical projects that solve real-world problems
 - 🤝 Comfortable collaborating on team projects using **Git and GitHub**
 - 🎯 Currently learning **Backend development, Databases, APIs and Advanced JavaScript**
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" alt="Frontend technologies" />
+</p>
+
+### Backend and Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql" alt="Backend and database technologies" />
+</p>
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" alt="Programming languages" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development tools" />
+</p>
