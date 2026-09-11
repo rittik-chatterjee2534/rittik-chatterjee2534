@@ -52,10 +52,14 @@
       </p>
       <p><strong>Built with:</strong> HTML, CSS and JavaScript</p>
       <p align="center">
-        <a href="https://github.com/rittik-chatterjee2534/tic-tac-toe">
-          View Repository
-        </a>
-      </p>
+  <a href="https://github.com/rittik-chatterjee2534/tic-tac-toe">
+    View Repository
+  </a>
+  •
+  <a href="https://rittik-chatterjee2534.github.io/tic-tac-toe/">
+    Live Demo
+  </a>
+</p>
     </td>
     <td width="50%">
       <h3 align="center">✊ Rock Paper Scissors</h3>
