@@ -43,3 +43,34 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development tools" />
 </p>
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">⭕ Tic-Tac-Toe</h3>
+      <p>
+        A simple and responsive Tic-Tac-Toe game with interactive gameplay and a clean user interface.
+      </p>
+      <p><strong>Built with:</strong> HTML, CSS and JavaScript</p>
+      <p align="center">
+        <a href="https://github.com/rittik-chatterjee2534/tic-tac-toe">
+          View Repository
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">✊ Rock Paper Scissors</h3>
+      <p>
+        An interactive Rock Paper Scissors game where users compete against the computer with instant results.
+      </p>
+      <p><strong>Built with:</strong> HTML, CSS and JavaScript</p>
+      <p align="center">
+        <a href="https://github.com/rittik-chatterjee2534/rock-paper-scissors">
+          View Repository
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
